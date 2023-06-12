@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Front-end Development Course**
 
-- 👯 I’m looking to collaborate on **Crypto Tracker**
+- 👯 I’m looking to collaborate on **Development Based Projects**
 
 - 💬 Ask me about **Html,css,React,JavaScript,bootstrap,C,etc..**
 
